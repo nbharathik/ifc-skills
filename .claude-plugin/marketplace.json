@@ -1,0 +1,12 @@
+{
+  "name": "ifc-skills",
+  "description": "Skills for working with IFC building models and openBIM standards.",
+  "owner": { "name": "nbharathik" },
+  "plugins": [
+    {
+      "name": "ifc-skills",
+      "source": "./",
+      "description": "Work with IFC building models and openBIM standards from Claude Code."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+*.ifc
+*.ifczip
+*.ifcxml
+dev/
+.ifc-skills/
+__pycache__/
+CLAUDE.md
+AGENTS.md

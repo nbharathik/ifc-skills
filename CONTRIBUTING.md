@@ -27,6 +27,31 @@ belongs in a file that `SKILL.md` points to.
 - Check that every function you name exists in the current IfcOpenShell.
 - Bump `metadata.version` in the file's header when you change it.
 
+## Try it in dev mode
+
+Run Claude Code from a folder that holds an `.ifc` file (for example `dev/`),
+pointing at this repository:
+
+```
+claude --plugin-dir "C:\path\to\ifc-kit"
+```
+
+Inside the session:
+
+- `/reload-plugins` picks up edits to the skill without restarting.
+- `/help` or `/skills` should list `ifc-skills:ifc`.
+- Ask an IFC question, or call it directly with `/ifc-skills:ifc`.
+- `claude plugin validate .` checks the manifests.
+
+To keep it always on, install it from GitHub once published:
+
+```
+/plugin marketplace add nbharathik/ifc-skills
+/plugin install ifc-skills@ifc-skills
+```
+
+Or from a local clone: `/plugin marketplace add C:\path\to\ifc-kit`.
+
 ## Check a change before opening a pull request
 
 1. Load the skill in a test project next to an `.ifc` model, for example with

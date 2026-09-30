@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="IFC Skills">
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <g fill="none" stroke="#0B2A5B">
+      <path d="M120 12 L213.53 66 L213.53 174 L120 228 L26.47 174 L26.47 66 Z" stroke-width="9"/>
+      <path d="M120 12 V120 M120 120 L26.47 174 M120 120 L213.53 174" stroke-width="5"/>
+      <path d="M85.39 100.02 L51.72 119.46 L51.72 87.06 L85.39 67.62 Z M68.56 109.74 V77.34 M85.39 83.82 L51.72 103.26" stroke-width="4"/>
+      <path d="M162.09 144.3 V84.9 L190.15 101.1 V160.5" stroke-width="4"/>
+      <path d="M120 160 V170 L105.59 179 M120 170 L134.41 179" stroke-width="4"/>
+    </g>
+    <g stroke="#0B2A5B" stroke-width="3.5">
+      <path d="M90 170 L105.59 179 L90 188 L74.41 179 Z" fill="#DCE6FB"/>
+      <path d="M74.41 179 L90 188 L90 206 L74.41 197 Z" fill="#FFFFFF"/>
+      <path d="M90 188 L105.59 179 L105.59 197 L90 206 Z" fill="#C3D3F5"/>
+      <path d="M150 170 L165.59 179 L150 188 L134.41 179 Z" fill="#DCE6FB"/>
+      <path d="M134.41 179 L150 188 L150 206 L134.41 197 Z" fill="#FFFFFF"/>
+      <path d="M150 188 L165.59 179 L165.59 197 L150 206 Z" fill="#C3D3F5"/>
+    </g>
+    <g stroke-width="1">
+      <path d="M120 112 L140.78 124 L120 136 L99.22 124 Z" fill="#7FA6FF" stroke="#7FA6FF"/>
+      <path d="M99.22 124 L120 136 L120 160 L99.22 148 Z" fill="#2F6BFF" stroke="#2F6BFF"/>
+      <path d="M120 136 L140.78 124 L140.78 148 L120 160 Z" fill="#1B4FD6" stroke="#1B4FD6"/>
+    </g>
+  </g>
+</svg>

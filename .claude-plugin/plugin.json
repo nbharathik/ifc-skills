@@ -2,6 +2,7 @@
   "name": "ifc-skills",
   "version": "0.1.0",
   "description": "Work with IFC building models and openBIM standards: query, explain, check and safely edit .ifc files with IfcOpenShell.",
+  "author": { "name": "Bharathi Kannan N" },
   "license": "MIT",
   "repository": "https://github.com/nbharathik/ifc-skills",
   "keywords": ["ifc", "bim", "openbim", "ifcopenshell", "buildingsmart", "bsdd", "ids"]
